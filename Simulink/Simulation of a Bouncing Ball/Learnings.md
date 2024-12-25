@@ -3,3 +3,8 @@
 - Zeno behavior is informally characterized by an infinite number of events occurring in a finite time interval for certain hybrid systems. </br>
 - As the ball loses energy, the ball collides with the ground in successively smaller intervals of time. </br>
 # [Documentation](https://in.mathworks.com/help/simulink/slref/simulation-of-a-bouncing-ball.html)
+
+# Key Learnings
+- Adding name to a signal
+- Adding a viewer (scope) by changing the layout
+- Added additional blocks like absolute value, squared value, constant, product and a terminator
